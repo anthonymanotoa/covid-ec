@@ -1,2 +1,2 @@
 # covid-ec
-Análisis de datos de la evolución del Covid en Ecuador.
+Análisis de datos de la evolución del Covid 19 en Ecuador.
