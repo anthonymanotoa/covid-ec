@@ -1,0 +1,625 @@
+Date,Status
+2020-02-16,Fully open
+2020-02-17,Fully open
+2020-02-18,Fully open
+2020-02-19,Fully open
+2020-02-20,Fully open
+2020-02-21,Fully open
+2020-02-22,Fully open
+2020-02-23,Fully open
+2020-02-24,Fully open
+2020-02-25,Fully open
+2020-02-26,Fully open
+2020-02-27,Fully open
+2020-02-28,Fully open
+2020-02-29,Fully open
+2020-03-01,Fully open
+2020-03-02,Fully open
+2020-03-03,Fully open
+2020-03-04,Fully open
+2020-03-05,Fully open
+2020-03-06,Fully open
+2020-03-07,Fully open
+2020-03-08,Fully open
+2020-03-09,Fully open
+2020-03-10,Fully open
+2020-03-11,Fully open
+2020-03-12,Fully open
+2020-03-13,Closed due to COVID-19
+2020-03-14,Closed due to COVID-19
+2020-03-15,Closed due to COVID-19
+2020-03-16,Closed due to COVID-19
+2020-03-17,Closed due to COVID-19
+2020-03-18,Closed due to COVID-19
+2020-03-19,Closed due to COVID-19
+2020-03-20,Closed due to COVID-19
+2020-03-21,Closed due to COVID-19
+2020-03-22,Closed due to COVID-19
+2020-03-23,Closed due to COVID-19
+2020-03-24,Closed due to COVID-19
+2020-03-25,Closed due to COVID-19
+2020-03-26,Closed due to COVID-19
+2020-03-27,Closed due to COVID-19
+2020-03-28,Closed due to COVID-19
+2020-03-29,Closed due to COVID-19
+2020-03-30,Closed due to COVID-19
+2020-03-31,Closed due to COVID-19
+2020-04-01,Closed due to COVID-19
+2020-04-02,Closed due to COVID-19
+2020-04-03,Closed due to COVID-19
+2020-04-04,Closed due to COVID-19
+2020-04-05,Closed due to COVID-19
+2020-04-06,Closed due to COVID-19
+2020-04-07,Closed due to COVID-19
+2020-04-08,Closed due to COVID-19
+2020-04-09,Closed due to COVID-19
+2020-04-10,Closed due to COVID-19
+2020-04-11,Closed due to COVID-19
+2020-04-12,Closed due to COVID-19
+2020-04-13,Closed due to COVID-19
+2020-04-14,Closed due to COVID-19
+2020-04-15,Closed due to COVID-19
+2020-04-16,Closed due to COVID-19
+2020-04-17,Closed due to COVID-19
+2020-04-18,Closed due to COVID-19
+2020-04-19,Closed due to COVID-19
+2020-04-20,Closed due to COVID-19
+2020-04-21,Closed due to COVID-19
+2020-04-22,Closed due to COVID-19
+2020-04-23,Closed due to COVID-19
+2020-04-24,Closed due to COVID-19
+2020-04-25,Closed due to COVID-19
+2020-04-26,Closed due to COVID-19
+2020-04-27,Closed due to COVID-19
+2020-04-28,Closed due to COVID-19
+2020-04-29,Closed due to COVID-19
+2020-04-30,Closed due to COVID-19
+2020-05-01,Closed due to COVID-19
+2020-05-02,Closed due to COVID-19
+2020-05-03,Closed due to COVID-19
+2020-05-04,Closed due to COVID-19
+2020-05-05,Closed due to COVID-19
+2020-05-06,Closed due to COVID-19
+2020-05-07,Closed due to COVID-19
+2020-05-08,Closed due to COVID-19
+2020-05-09,Closed due to COVID-19
+2020-05-10,Closed due to COVID-19
+2020-05-11,Closed due to COVID-19
+2020-05-12,Closed due to COVID-19
+2020-05-13,Closed due to COVID-19
+2020-05-14,Closed due to COVID-19
+2020-05-15,Closed due to COVID-19
+2020-05-16,Closed due to COVID-19
+2020-05-17,Closed due to COVID-19
+2020-05-18,Closed due to COVID-19
+2020-05-19,Closed due to COVID-19
+2020-05-20,Closed due to COVID-19
+2020-05-21,Closed due to COVID-19
+2020-05-22,Closed due to COVID-19
+2020-05-23,Closed due to COVID-19
+2020-05-24,Closed due to COVID-19
+2020-05-25,Closed due to COVID-19
+2020-05-26,Closed due to COVID-19
+2020-05-27,Closed due to COVID-19
+2020-05-28,Closed due to COVID-19
+2020-05-29,Closed due to COVID-19
+2020-05-30,Closed due to COVID-19
+2020-05-31,Closed due to COVID-19
+2020-06-01,Closed due to COVID-19
+2020-06-02,Closed due to COVID-19
+2020-06-03,Closed due to COVID-19
+2020-06-04,Closed due to COVID-19
+2020-06-05,Closed due to COVID-19
+2020-06-06,Closed due to COVID-19
+2020-06-07,Closed due to COVID-19
+2020-06-08,Closed due to COVID-19
+2020-06-09,Closed due to COVID-19
+2020-06-10,Closed due to COVID-19
+2020-06-11,Closed due to COVID-19
+2020-06-12,Closed due to COVID-19
+2020-06-13,Closed due to COVID-19
+2020-06-14,Closed due to COVID-19
+2020-06-15,Closed due to COVID-19
+2020-06-16,Closed due to COVID-19
+2020-06-17,Closed due to COVID-19
+2020-06-18,Closed due to COVID-19
+2020-06-19,Closed due to COVID-19
+2020-06-20,Closed due to COVID-19
+2020-06-21,Closed due to COVID-19
+2020-06-22,Closed due to COVID-19
+2020-06-23,Closed due to COVID-19
+2020-06-24,Closed due to COVID-19
+2020-06-25,Closed due to COVID-19
+2020-06-26,Closed due to COVID-19
+2020-06-27,Closed due to COVID-19
+2020-06-28,Closed due to COVID-19
+2020-06-29,Closed due to COVID-19
+2020-06-30,Closed due to COVID-19
+2020-07-01,Academic break
+2020-07-02,Academic break
+2020-07-03,Academic break
+2020-07-04,Academic break
+2020-07-05,Academic break
+2020-07-06,Academic break
+2020-07-07,Academic break
+2020-07-08,Academic break
+2020-07-09,Academic break
+2020-07-10,Academic break
+2020-07-11,Academic break
+2020-07-12,Academic break
+2020-07-13,Academic break
+2020-07-14,Academic break
+2020-07-15,Academic break
+2020-07-16,Academic break
+2020-07-17,Academic break
+2020-07-18,Academic break
+2020-07-19,Academic break
+2020-07-20,Academic break
+2020-07-21,Academic break
+2020-07-22,Academic break
+2020-07-23,Academic break
+2020-07-24,Academic break
+2020-07-25,Academic break
+2020-07-26,Academic break
+2020-07-27,Academic break
+2020-07-28,Academic break
+2020-07-29,Academic break
+2020-07-30,Academic break
+2020-07-31,Academic break
+2020-08-01,Academic break
+2020-08-02,Academic break
+2020-08-03,Academic break
+2020-08-04,Academic break
+2020-08-05,Academic break
+2020-08-06,Academic break
+2020-08-07,Academic break
+2020-08-08,Academic break
+2020-08-09,Academic break
+2020-08-10,Academic break
+2020-08-11,Academic break
+2020-08-12,Academic break
+2020-08-13,Academic break
+2020-08-14,Academic break
+2020-08-15,Academic break
+2020-08-16,Academic break
+2020-08-17,Academic break
+2020-08-18,Academic break
+2020-08-19,Academic break
+2020-08-20,Academic break
+2020-08-21,Academic break
+2020-08-22,Academic break
+2020-08-23,Academic break
+2020-08-24,Academic break
+2020-08-25,Academic break
+2020-08-26,Academic break
+2020-08-27,Academic break
+2020-08-28,Academic break
+2020-08-29,Academic break
+2020-08-30,Academic break
+2020-08-31,Academic break
+2020-09-01,Closed due to COVID-19
+2020-09-02,Closed due to COVID-19
+2020-09-03,Closed due to COVID-19
+2020-09-04,Closed due to COVID-19
+2020-09-05,Closed due to COVID-19
+2020-09-06,Closed due to COVID-19
+2020-09-07,Closed due to COVID-19
+2020-09-08,Closed due to COVID-19
+2020-09-09,Closed due to COVID-19
+2020-09-10,Closed due to COVID-19
+2020-09-11,Closed due to COVID-19
+2020-09-12,Closed due to COVID-19
+2020-09-13,Closed due to COVID-19
+2020-09-14,Closed due to COVID-19
+2020-09-15,Closed due to COVID-19
+2020-09-16,Closed due to COVID-19
+2020-09-17,Closed due to COVID-19
+2020-09-18,Closed due to COVID-19
+2020-09-19,Closed due to COVID-19
+2020-09-20,Closed due to COVID-19
+2020-09-21,Closed due to COVID-19
+2020-09-22,Closed due to COVID-19
+2020-09-23,Closed due to COVID-19
+2020-09-24,Closed due to COVID-19
+2020-09-25,Closed due to COVID-19
+2020-09-26,Closed due to COVID-19
+2020-09-27,Closed due to COVID-19
+2020-09-28,Closed due to COVID-19
+2020-09-29,Closed due to COVID-19
+2020-09-30,Closed due to COVID-19
+2020-10-01,Closed due to COVID-19
+2020-10-02,Closed due to COVID-19
+2020-10-03,Closed due to COVID-19
+2020-10-04,Closed due to COVID-19
+2020-10-05,Closed due to COVID-19
+2020-10-06,Closed due to COVID-19
+2020-10-07,Closed due to COVID-19
+2020-10-08,Closed due to COVID-19
+2020-10-09,Closed due to COVID-19
+2020-10-10,Closed due to COVID-19
+2020-10-11,Closed due to COVID-19
+2020-10-12,Closed due to COVID-19
+2020-10-13,Closed due to COVID-19
+2020-10-14,Closed due to COVID-19
+2020-10-15,Closed due to COVID-19
+2020-10-16,Closed due to COVID-19
+2020-10-17,Closed due to COVID-19
+2020-10-18,Closed due to COVID-19
+2020-10-19,Closed due to COVID-19
+2020-10-20,Closed due to COVID-19
+2020-10-21,Closed due to COVID-19
+2020-10-22,Closed due to COVID-19
+2020-10-23,Closed due to COVID-19
+2020-10-24,Closed due to COVID-19
+2020-10-25,Closed due to COVID-19
+2020-10-26,Closed due to COVID-19
+2020-10-27,Closed due to COVID-19
+2020-10-28,Closed due to COVID-19
+2020-10-29,Closed due to COVID-19
+2020-10-30,Closed due to COVID-19
+2020-10-31,Closed due to COVID-19
+2020-11-01,Closed due to COVID-19
+2020-11-02,Closed due to COVID-19
+2020-11-03,Closed due to COVID-19
+2020-11-04,Closed due to COVID-19
+2020-11-05,Closed due to COVID-19
+2020-11-06,Closed due to COVID-19
+2020-11-07,Closed due to COVID-19
+2020-11-08,Closed due to COVID-19
+2020-11-09,Closed due to COVID-19
+2020-11-10,Closed due to COVID-19
+2020-11-11,Closed due to COVID-19
+2020-11-12,Closed due to COVID-19
+2020-11-13,Closed due to COVID-19
+2020-11-14,Closed due to COVID-19
+2020-11-15,Closed due to COVID-19
+2020-11-16,Closed due to COVID-19
+2020-11-17,Closed due to COVID-19
+2020-11-18,Closed due to COVID-19
+2020-11-19,Closed due to COVID-19
+2020-11-20,Closed due to COVID-19
+2020-11-21,Closed due to COVID-19
+2020-11-22,Closed due to COVID-19
+2020-11-23,Closed due to COVID-19
+2020-11-24,Closed due to COVID-19
+2020-11-25,Closed due to COVID-19
+2020-11-26,Closed due to COVID-19
+2020-11-27,Closed due to COVID-19
+2020-11-28,Closed due to COVID-19
+2020-11-29,Closed due to COVID-19
+2020-11-30,Closed due to COVID-19
+2020-12-01,Closed due to COVID-19
+2020-12-02,Closed due to COVID-19
+2020-12-03,Closed due to COVID-19
+2020-12-04,Closed due to COVID-19
+2020-12-05,Closed due to COVID-19
+2020-12-06,Closed due to COVID-19
+2020-12-07,Closed due to COVID-19
+2020-12-08,Closed due to COVID-19
+2020-12-09,Closed due to COVID-19
+2020-12-10,Closed due to COVID-19
+2020-12-11,Closed due to COVID-19
+2020-12-12,Closed due to COVID-19
+2020-12-13,Closed due to COVID-19
+2020-12-14,Closed due to COVID-19
+2020-12-15,Closed due to COVID-19
+2020-12-16,Closed due to COVID-19
+2020-12-17,Closed due to COVID-19
+2020-12-18,Closed due to COVID-19
+2020-12-19,Closed due to COVID-19
+2020-12-20,Closed due to COVID-19
+2020-12-21,Closed due to COVID-19
+2020-12-22,Closed due to COVID-19
+2020-12-23,Academic break
+2020-12-24,Academic break
+2020-12-25,Academic break
+2020-12-26,Academic break
+2020-12-27,Academic break
+2020-12-28,Academic break
+2020-12-29,Academic break
+2020-12-30,Academic break
+2020-12-31,Academic break
+2021-01-01,Academic break
+2021-01-02,Academic break
+2021-01-03,Academic break
+2021-01-04,Closed due to COVID-19
+2021-01-05,Closed due to COVID-19
+2021-01-06,Closed due to COVID-19
+2021-01-07,Closed due to COVID-19
+2021-01-08,Closed due to COVID-19
+2021-01-09,Closed due to COVID-19
+2021-01-10,Closed due to COVID-19
+2021-01-11,Closed due to COVID-19
+2021-01-12,Closed due to COVID-19
+2021-01-13,Closed due to COVID-19
+2021-01-14,Closed due to COVID-19
+2021-01-15,Closed due to COVID-19
+2021-01-16,Closed due to COVID-19
+2021-01-17,Closed due to COVID-19
+2021-01-18,Partially open
+2021-01-19,Partially open
+2021-01-20,Partially open
+2021-01-21,Partially open
+2021-01-22,Partially open
+2021-01-23,Partially open
+2021-01-24,Partially open
+2021-01-25,Partially open
+2021-01-26,Partially open
+2021-01-27,Partially open
+2021-01-28,Partially open
+2021-01-29,Partially open
+2021-01-30,Partially open
+2021-01-31,Partially open
+2021-02-01,Partially open
+2021-02-02,Partially open
+2021-02-03,Partially open
+2021-02-04,Partially open
+2021-02-05,Partially open
+2021-02-06,Partially open
+2021-02-07,Partially open
+2021-02-08,Partially open
+2021-02-09,Partially open
+2021-02-10,Partially open
+2021-02-11,Partially open
+2021-02-12,Partially open
+2021-02-13,Partially open
+2021-02-14,Partially open
+2021-02-15,Partially open
+2021-02-16,Partially open
+2021-02-17,Partially open
+2021-02-18,Partially open
+2021-02-19,Partially open
+2021-02-20,Partially open
+2021-02-21,Partially open
+2021-02-22,Partially open
+2021-02-23,Partially open
+2021-02-24,Partially open
+2021-02-25,Partially open
+2021-02-26,Partially open
+2021-02-27,Partially open
+2021-02-28,Partially open
+2021-03-01,Partially open
+2021-03-02,Partially open
+2021-03-03,Partially open
+2021-03-04,Partially open
+2021-03-05,Partially open
+2021-03-06,Partially open
+2021-03-07,Partially open
+2021-03-08,Partially open
+2021-03-09,Partially open
+2021-03-10,Partially open
+2021-03-11,Partially open
+2021-03-12,Partially open
+2021-03-13,Partially open
+2021-03-14,Partially open
+2021-03-15,Partially open
+2021-03-16,Partially open
+2021-03-17,Partially open
+2021-03-18,Partially open
+2021-03-19,Partially open
+2021-03-20,Partially open
+2021-03-21,Partially open
+2021-03-22,Partially open
+2021-03-23,Partially open
+2021-03-24,Partially open
+2021-03-25,Partially open
+2021-03-26,Partially open
+2021-03-27,Partially open
+2021-03-28,Partially open
+2021-03-29,Partially open
+2021-03-30,Partially open
+2021-03-31,Partially open
+2021-04-01,Partially open
+2021-04-02,Partially open
+2021-04-03,Partially open
+2021-04-04,Partially open
+2021-04-05,Partially open
+2021-04-06,Partially open
+2021-04-07,Partially open
+2021-04-08,Partially open
+2021-04-09,Partially open
+2021-04-10,Partially open
+2021-04-11,Partially open
+2021-04-12,Partially open
+2021-04-13,Partially open
+2021-04-14,Partially open
+2021-04-15,Partially open
+2021-04-16,Partially open
+2021-04-17,Partially open
+2021-04-18,Partially open
+2021-04-19,Partially open
+2021-04-20,Partially open
+2021-04-21,Partially open
+2021-04-22,Partially open
+2021-04-23,Closed due to COVID-19
+2021-04-24,Closed due to COVID-19
+2021-04-25,Closed due to COVID-19
+2021-04-26,Closed due to COVID-19
+2021-04-27,Closed due to COVID-19
+2021-04-28,Closed due to COVID-19
+2021-04-29,Closed due to COVID-19
+2021-04-30,Closed due to COVID-19
+2021-05-01,Closed due to COVID-19
+2021-05-02,Closed due to COVID-19
+2021-05-03,Closed due to COVID-19
+2021-05-04,Closed due to COVID-19
+2021-05-05,Closed due to COVID-19
+2021-05-06,Closed due to COVID-19
+2021-05-07,Closed due to COVID-19
+2021-05-08,Closed due to COVID-19
+2021-05-09,Closed due to COVID-19
+2021-05-10,Closed due to COVID-19
+2021-05-11,Closed due to COVID-19
+2021-05-12,Closed due to COVID-19
+2021-05-13,Closed due to COVID-19
+2021-05-14,Closed due to COVID-19
+2021-05-15,Closed due to COVID-19
+2021-05-16,Closed due to COVID-19
+2021-05-17,Closed due to COVID-19
+2021-05-18,Closed due to COVID-19
+2021-05-19,Closed due to COVID-19
+2021-05-20,Closed due to COVID-19
+2021-05-21,Closed due to COVID-19
+2021-05-22,Closed due to COVID-19
+2021-05-23,Closed due to COVID-19
+2021-05-24,Closed due to COVID-19
+2021-05-25,Closed due to COVID-19
+2021-05-26,Closed due to COVID-19
+2021-05-27,Closed due to COVID-19
+2021-05-28,Closed due to COVID-19
+2021-05-29,Closed due to COVID-19
+2021-05-30,Closed due to COVID-19
+2021-05-31,Closed due to COVID-19
+2021-06-01,Closed due to COVID-19
+2021-06-02,Closed due to COVID-19
+2021-06-03,Closed due to COVID-19
+2021-06-04,Closed due to COVID-19
+2021-06-05,Closed due to COVID-19
+2021-06-06,Closed due to COVID-19
+2021-06-07,Partially open
+2021-06-08,Partially open
+2021-06-09,Partially open
+2021-06-10,Partially open
+2021-06-11,Partially open
+2021-06-12,Partially open
+2021-06-13,Partially open
+2021-06-14,Partially open
+2021-06-15,Partially open
+2021-06-16,Partially open
+2021-06-17,Partially open
+2021-06-18,Partially open
+2021-06-19,Partially open
+2021-06-20,Partially open
+2021-06-21,Partially open
+2021-06-22,Partially open
+2021-06-23,Partially open
+2021-06-24,Partially open
+2021-06-25,Partially open
+2021-06-26,Partially open
+2021-06-27,Partially open
+2021-06-28,Partially open
+2021-06-29,Partially open
+2021-06-30,Partially open
+2021-07-01,Partially open
+2021-07-02,Partially open
+2021-07-03,Partially open
+2021-07-04,Partially open
+2021-07-05,Partially open
+2021-07-06,Partially open
+2021-07-07,Partially open
+2021-07-08,Partially open
+2021-07-09,Partially open
+2021-07-10,Partially open
+2021-07-11,Partially open
+2021-07-12,Partially open
+2021-07-13,Partially open
+2021-07-14,Partially open
+2021-07-15,Partially open
+2021-07-16,Partially open
+2021-07-17,Partially open
+2021-07-18,Partially open
+2021-07-19,Partially open
+2021-07-20,Partially open
+2021-07-21,Partially open
+2021-07-22,Partially open
+2021-07-23,Partially open
+2021-07-24,Partially open
+2021-07-25,Partially open
+2021-07-26,Partially open
+2021-07-27,Partially open
+2021-07-28,Partially open
+2021-07-29,Partially open
+2021-07-30,Partially open
+2021-07-31,Partially open
+2021-08-01,Partially open
+2021-08-02,Partially open
+2021-08-03,Partially open
+2021-08-04,Partially open
+2021-08-05,Partially open
+2021-08-06,Partially open
+2021-08-07,Partially open
+2021-08-08,Partially open
+2021-08-09,Partially open
+2021-08-10,Partially open
+2021-08-11,Partially open
+2021-08-12,Partially open
+2021-08-13,Partially open
+2021-08-14,Partially open
+2021-08-15,Partially open
+2021-08-16,Partially open
+2021-08-17,Partially open
+2021-08-18,Partially open
+2021-08-19,Partially open
+2021-08-20,Partially open
+2021-08-21,Partially open
+2021-08-22,Partially open
+2021-08-23,Partially open
+2021-08-24,Partially open
+2021-08-25,Partially open
+2021-08-26,Partially open
+2021-08-27,Partially open
+2021-08-28,Partially open
+2021-08-29,Partially open
+2021-08-30,Partially open
+2021-08-31,Partially open
+2021-09-01,Partially open
+2021-09-02,Partially open
+2021-09-03,Partially open
+2021-09-04,Partially open
+2021-09-05,Partially open
+2021-09-06,Partially open
+2021-09-07,Partially open
+2021-09-08,Partially open
+2021-09-09,Partially open
+2021-09-10,Partially open
+2021-09-11,Partially open
+2021-09-12,Partially open
+2021-09-13,Partially open
+2021-09-14,Partially open
+2021-09-15,Partially open
+2021-09-16,Partially open
+2021-09-17,Partially open
+2021-09-18,Partially open
+2021-09-19,Partially open
+2021-09-20,Partially open
+2021-09-21,Partially open
+2021-09-22,Partially open
+2021-09-23,Partially open
+2021-09-24,Partially open
+2021-09-25,Partially open
+2021-09-26,Partially open
+2021-09-27,Partially open
+2021-09-28,Partially open
+2021-09-29,Partially open
+2021-09-30,Partially open
+2021-10-01,Partially open
+2021-10-02,Partially open
+2021-10-03,Partially open
+2021-10-04,Partially open
+2021-10-05,Partially open
+2021-10-06,Partially open
+2021-10-07,Partially open
+2021-10-08,Partially open
+2021-10-09,Partially open
+2021-10-10,Partially open
+2021-10-11,Partially open
+2021-10-12,Partially open
+2021-10-13,Partially open
+2021-10-14,Partially open
+2021-10-15,Partially open
+2021-10-16,Partially open
+2021-10-17,Partially open
+2021-10-18,Partially open
+2021-10-19,Partially open
+2021-10-20,Partially open
+2021-10-21,Partially open
+2021-10-22,Partially open
+2021-10-23,Partially open
+2021-10-24,Partially open
+2021-10-25,Partially open
+2021-10-26,Partially open
+2021-10-27,Partially open
+2021-10-28,Partially open
+2021-10-29,Partially open
+2021-10-30,Partially open
+2021-10-31,Partially open
