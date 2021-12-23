@@ -18,6 +18,13 @@ _Education data_ extraída de:
 - [UNESCO](https://en.unesco.org/covid19/educationresponse)
 - [Gobierno de Ecuador](https://educacion.gob.ec/base-de-datos/)
 
+## Notebooks
+Los notebooks están divididos entre los datos de covid y educación siguiendo este patrón:
+0) Extracción
+1) Procesamiento
+2) Exploración
+3) Analisis
+
 ## Project organization
 
 ```
@@ -28,8 +35,10 @@ _Education data_ extraída de:
 │   └── raw            <- The original, immutable data dump.
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention: number (for ordering),
-│                         topic, delimited description, e.g.
-│                         `1.1-covid-data_process.ipynb`.
+│   ├── 0. extraction     topic, delimited description, e.g.
+│   ├── 1. process        `1.1-covid-data_process.ipynb`.
+│   ├── 2. exploration
+│   └── 3. analysis
 │
 └── requirements.txt   <- The requirements file for reproducing the analysis environment.
 ```
