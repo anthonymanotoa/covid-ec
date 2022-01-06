@@ -9,6 +9,12 @@ Análisis de datos de la evolución del Covid 19 en Ecuador y su afectación a l
 - ¿Cuál es el progreso histórico de los estudiantes en Ecuador y cómo ha visto afectado durante la pandemia?
 - Con base en los datos de educación: ¿Qué grupo social fue el más afectado por la crisis? ¿Qué pasó con los otros grupos?
 
+También puedes ver el análisis publicado en Deepnote: [Covid y educación](https://deepnote.com/@anthonymanotoa/Covid-19-y-educacion-en-Ecuador-57BI3_ybSXCqiN8VOycKbw)
+
+Estas son, entre otras, algunas de las conclusiones más importantes encontradas:
+- El último año, en gran parte debido a la pandemia, **75.566 niños y jóvenes abandonaron sus estudios**.
+- **159.024 estudiantes** migraron de una educación particular/fiscomisional a una fiscal como resultado de la crisis.
+
 ## Data
 _Covid data_ extraída de:
 - [Ecuacovid](https://github.com/andrab/ecuacovid)
